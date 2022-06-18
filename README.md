@@ -18,6 +18,7 @@
   Following the #MeToo movement we had a lot of people opening up about their sexual harassment incidents, but as with any internet viral movement, it faded with time.
   Using the same data, worked on this case study and was able to achieve an average accuracy of 80% just two percent short of the original paper on the same topic.
  <br>
+ <br>
  <a href="https://www.analyticsvidhya.com/blog/2022/02/analysing-emotions-using-nlp/">Identifying emotions from tweets</a>
  <br>
  Emotions are expressed through words, gestures, expressions, and with the ease of accessibility of social media today, emotions can now, also be expressed through       tweets and Instagram/ WhatsApp stories. The project involved working on text cleaning, preprocessing, vectorization and modelling. I was able to achieve an accuracy   of 82% on the test dataset with my approach.
