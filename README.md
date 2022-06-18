@@ -25,7 +25,11 @@
  <br>
  <br>
  <a href="https://www.kaggle.com/code/aliphya/rating-friends/data">Predicting the rating of a show based on it's plot and other metadata</a>
- Worked on this interesting intersection of NLP and regression problem to create a model that predicts the rating of a show based on it's written plot and other metadata. Was able to achieve a public RMSE of 0.15750 with my code. Currently I am leading the public leaderboard with my score.
+ <br>
+ Worked on this interesting intersection of NLP and regression problem to create a model that predicts the rating of a show based on it's written plot and other metadata. Worked on data analysis and modelling. Was able to achieve a public RMSE of 0.15750 with my code. Currently I am leading the public leaderboard with my score.
+ <br>
+ <br>
+ <li> Image Processing </li>
 </ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
