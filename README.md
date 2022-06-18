@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alifia Ghantiwala</h1>
 <h3 align="center">I enjoy investigating data on a day to day basis</h3>
 <p align="center">
-![](https://media.giphy.com/media/IwAZ6dvvvaTtdI8SD5/giphy.gif)
+<img src="https://media.giphy.com/media/IwAZ6dvvvaTtdI8SD5/giphy.gif">
 </p>
 - 🔭 I’m currently working on [Understanding stock price fundamentals using python](https://www.kaggle.com/code/aliphya/an-eda-notebook-to-understand-stocks)
 
