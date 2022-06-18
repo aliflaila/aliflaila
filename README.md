@@ -33,7 +33,7 @@
  <br>
  <a href="https://medium.com/@gghantiwala/classifying-images-of-important-personalities-4a619aa56a25">Classifying personalities using their images</a>
  <br>
- As part of this article, worked on collecting data, analyse the data, use a Convolution Neural Network for image classification. Used openCV for feature generation and CNN for modelling, handled overfitting in the model using dropouts and image augmentation.
+ As part of this article, worked on collecting data, and analysing it for image classification. Used openCV for feature generation and CNN for modelling, handled overfitting in the model using dropouts and image augmentation.
 </ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
