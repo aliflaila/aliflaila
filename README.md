@@ -5,11 +5,12 @@
 
 - 🌱 I’m currently learning **Timeseries modelling**
 
-- 📝 I regularly write articles on [https://medium.com/@gghantiwala](https://medium.com/@gghantiwala)
+- 📝 I regularly write articles on [Medium](https://medium.com/@gghantiwala)
 
 - 📫 How to reach me **gghantiwala@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Z9FK0yBQR4wYBSg73XM_avbCDRqh2iUg/view?usp=sharing](https://drive.google.com/file/d/1Z9FK0yBQR4wYBSg73XM_avbCDRqh2iUg/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Z9FK0yBQR4wYBSg73XM_avbCDRqh2iUg/view?usp=sharing)
+- Some 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
