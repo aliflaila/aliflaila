@@ -36,12 +36,18 @@
  As part of this article, worked on collecting data, and analysing it for image classification. Used openCV for feature generation and CNN for modelling, handled overfitting in the model using dropouts and image augmentation.
  <br>
  <br>
- <li>Visulizations</li>
+ <li>Visualizations</li>
  <br>
  <a href="https://medium.com/towards-data-science/visualizing-audio-data-and-performing-feature-extraction-e1a489046000">Visualizing Audio Data and Performing Feature Extraction</a>
  <br>
  Audio is nothing but simply sound, the sound we hear in our daily lives. The human brain, through experience, can perfectly differentiate between the sound of an ambulance and the sound of a tabla, for example. But can we create machine learning models to work on such a classification?
 Working with audio data becomes a little overwhelming because we cannot visualize it as we can a set of tables or images. In this project, I worked on visualizing audio data followed by extracting useful features from the audio.
+ <br>
+ <br>
+ <a href="https://www.kaggle.com/code/aliphya/football-match-probability-prediction-eda">Football Match Probability Prediction</a>
+ The dataset had nearly 164 features, as part of this project I worked on analysing these features to gain better insights into the data to ultimately create a model that would predict the chances of a football team winning a match!
+ <br>
+ <br>
 </ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
