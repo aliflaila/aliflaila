@@ -34,6 +34,14 @@
  <a href="https://medium.com/@gghantiwala/classifying-images-of-important-personalities-4a619aa56a25">Classifying personalities using their images</a>
  <br>
  As part of this article, worked on collecting data, and analysing it for image classification. Used openCV for feature generation and CNN for modelling, handled overfitting in the model using dropouts and image augmentation.
+ <br>
+ <br>
+ <li>Visulizations</li>
+ <br>
+ <a href="https://medium.com/towards-data-science/visualizing-audio-data-and-performing-feature-extraction-e1a489046000">Visualizing Audio Data and Performing Feature Extraction</a>
+ <br>
+ Audio is nothing but simply sound, the sound we hear in our daily lives. The human brain, through experience, can perfectly differentiate between the sound of an ambulance and the sound of a tabla, for example. But can we create machine learning models to work on such a classification?
+Working with audio data becomes a little overwhelming because we cannot visualize it as we can a set of tables or images. In this project, I worked on visualizing audio data followed by extracting useful features from the audio.
 </ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
