@@ -49,7 +49,19 @@ Working with audio data becomes a little overwhelming because we cannot visualiz
  The dataset had nearly 164 features, as part of this project I worked on analysing these features to gain better insights into the data to ultimately create a model that would predict the chances of a football team winning a match!
  <br>
  <br>
- </ul>
+ <li>Predicting real world outcomes</li>
+ <br>
+ <br>
+ <a href="https://www.kaggle.com/code/aliphya/first-place-solution/data">ML Olympiad - Autism Prediction Challenge</a>
+ <br>
+ As part of this project built a machine learning model to classify whether individuals have Autism or not. It was a public Kaggle competition, secured the first rank and amazing goodies from Google Developers Team for my work in this competition. My approach involved data analysis, feature selection and modelling with hyperparameter optimization:)
+ <br>
+ <br>
+ <a href="https://www.kaggle.com/code/aliphya/march-22-jobathon-analytics-vidhya/notebook">Predicting Customer Churn</a>
+ <br>
+ Worked on an in depth analysis of the dataset, post which worked on modelling. Helped me gain a business understanding in the domain of customer churn.
+ 
+</ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/alifiaghantiwa1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alifiaghantiwa1" height="30" width="40" /></a>
