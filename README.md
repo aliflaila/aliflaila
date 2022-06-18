@@ -22,6 +22,10 @@
  <a href="https://www.analyticsvidhya.com/blog/2022/02/analysing-emotions-using-nlp/">Identifying emotions from tweets</a>
  <br>
  Emotions are expressed through words, gestures, expressions, and with the ease of accessibility of social media today, emotions can now, also be expressed through       tweets and Instagram/ WhatsApp stories. The project involved working on text cleaning, preprocessing, vectorization and modelling. I was able to achieve an accuracy   of 82% on the test dataset with my approach.
+ <br>
+ <br>
+ <a href="https://www.kaggle.com/code/aliphya/rating-friends/data">Predicting the rating of a show based on it's plot and other metadata</a>
+ Worked on this interesting intersection of NLP and regression problem to create a model that predicts the rating of a show based on it's written plot and other metadata. Was able to achieve a public RMSE of 0.15750 with my code. Currently I am leading the public leaderboard with my score.
 </ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
