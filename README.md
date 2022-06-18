@@ -9,8 +9,9 @@
 
 - 📫 How to reach me **gghantiwala@gmail.com**
 
- <h2> Previous projects I have worked on </h2>
+ <h3> Previous projects I have worked on </h3>
 <ul>
+ 
  <li>Natural Language Processing</li>
   
  [Classifying Sexual Harassment using Machine Learning](https://www.analyticsvidhya.com/blog/2022/02/classifying-sexual-harassment-using-machine-learning/)
