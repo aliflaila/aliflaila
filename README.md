@@ -9,15 +9,15 @@
 
 - 📫 How to reach me **gghantiwala@gmail.com**
 
-- <h2> Previous projects I have worked on </h2>
+ <h2> Previous projects I have worked on </h2>
 <ul>
-- <li>Natural Language Processing</li>
-  <ul>
-- <li>[Classifying Sexual Harassment using Machine Learning](https://www.analyticsvidhya.com/blog/2022/02/classifying-sexual-harassment-using-machine-learning/)</li>
+ <li>Natural Language Processing</li>
+  
+ [Classifying Sexual Harassment using Machine Learning](https://www.analyticsvidhya.com/blog/2022/02/classifying-sexual-harassment-using-machine-learning/)
 
   Following the #MeToo movement we had a lot of people opening up about their sexual harassment incidents, but as with any internet viral movement, it faded with time.
   Using the same data, worked on this case study and was able to achieve an average accuracy of 80% just two percent short of the original paper on the same topic.
-  </ul>
+  
 </ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
