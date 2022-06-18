@@ -49,7 +49,7 @@ Working with audio data becomes a little overwhelming because we cannot visualiz
  The dataset had nearly 164 features, as part of this project I worked on analysing these features to gain better insights into the data to ultimately create a model that would predict the chances of a football team winning a match!
  <br>
  <br>
-</ul>
+ </ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/alifiaghantiwa1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alifiaghantiwa1" height="30" width="40" /></a>
