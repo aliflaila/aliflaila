@@ -13,7 +13,7 @@
 <ul>
  <li>Natural Language Processing</li>
  <br>
- [Classifying Sexual Harassment using Machine Learning](https://www.analyticsvidhya.com/blog/2022/02/classifying-sexual-harassment-using-machine-learning/)
+ <a href="https://www.analyticsvidhya.com/blog/2022/02/classifying-sexual-harassment-using-machine-learning/">Classifying Sexual Harassment using Machine Learning</a>
 
   Following the #MeToo movement we had a lot of people opening up about their sexual harassment incidents, but as with any internet viral movement, it faded with time.
   Using the same data, worked on this case study and was able to achieve an average accuracy of 80% just two percent short of the original paper on the same topic.
