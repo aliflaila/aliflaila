@@ -4,10 +4,7 @@
 <img src="https://media.giphy.com/media/IwAZ6dvvvaTtdI8SD5/giphy.gif">
 </p>
 
-
-- 🔭 I’m currently working on [Understanding stock price fundamentals using python](https://www.kaggle.com/code/aliphya/an-eda-notebook-to-understand-stocks)
-
-- 🌱 I’m currently learning **Timeseries modelling**
+- 🌱 I’m currently learning **Automation scripts using python**
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@gghantiwala)
 
